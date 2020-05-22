@@ -1,4 +1,4 @@
-# ledDisplay_python
+# tic-tac-toe_python
 A simple program which pretends to play tic-tac-toe with the user.
 
 
@@ -14,5 +14,4 @@ the program checks if the game is over - there are four possible verdicts: the g
 the computer responds with its move and the check is repeated;
 don't implement any form of artificial intelligence - a random field choice made by the computer is good enough for the game.
 
-The example session with the program may look as follows:
-
+Input give as attacthed file input file
