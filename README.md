@@ -15,3 +15,5 @@ the computer responds with its move and the check is repeated;
 don't implement any form of artificial intelligence - a random field choice made by the computer is good enough for the game.
 
 Input give as attacthed file input file
+
+Google Colab Link:- https://colab.research.google.com/drive/1K5gmvvFXHAvnrjWwaB86QMEfYGIY2Pkt?usp=sharing
